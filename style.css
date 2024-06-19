@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(91, 209, 248);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+  
+  h1 {
+    color: pink;
+    margin-left: 20px;
+  }
+
+  button {
+    font-size: 20px;
+    width: 200px;
+    color: yellowgreen;
+  }
